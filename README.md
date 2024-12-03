@@ -1,5 +1,5 @@
 # JWT-Auth
-Documentaion(Coding in Progress)
+Documentaion
 
 
 ## Jwt-Spring-Security-JPA ##
